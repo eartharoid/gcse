@@ -1,0 +1,99 @@
+{
+	"jack": {
+		"name": "Jack",
+		"password": "badpass",
+		"scores": [
+			24
+		],
+		"wins": 1
+	},
+	"george": {
+		"name": "George",
+		"password": "badpass",
+		"scores": [],
+		"wins": 0
+	},
+	"barney": {
+		"name": "Barney",
+		"password": "badpass",
+		"scores": [],
+		"wins": 0
+	},
+	"kieron": {
+		"name": "Kieron",
+		"password": "badpass",
+		"scores": [],
+		"wins": 0
+	},
+	"steven": {
+		"name": "Steven",
+		"password": "i<3ed",
+		"scores": [],
+		"wins": 0
+	},
+	"ed": {
+		"name": "Ed",
+		"password": "i<3steven",
+		"scores": [],
+		"wins": 0
+	},
+	"yash": {
+		"name": "Yash",
+		"password": "badpass",
+		"scores": [
+			84,
+			20
+		],
+		"wins": 1
+	},
+	"isaac": {
+		"name": "Isaac",
+		"password": "passwd",
+		"scores": [
+			16,
+			56,
+			82,
+			14,
+			51,
+			47,
+			57
+		],
+		"wins": 4
+	},
+	"kane": {
+		"name": "Kane",
+		"password": "badpass",
+		"scores": [],
+		"wins": 0
+	},
+	"charlie": {
+		"name": "Charlie",
+		"password": "badpass",
+		"scores": [],
+		"wins": 0
+	},
+	"sam": {
+		"name": "Sam",
+		"password": "badpass",
+		"scores": [],
+		"wins": 0
+	},
+	"oliver": {
+		"name": "Oliver",
+		"password": "thenword",
+		"scores": [
+			40,
+			20,
+			36
+		],
+		"wins": 0
+	},
+	"david": {
+		"name": "David",
+		"password": "derpy",
+		"scores": [
+			31
+		],
+		"wins": 1
+	}
+}

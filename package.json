@@ -1,0 +1,17 @@
+{
+  "name": "eartharoid-gcse-cw",
+  "version": "1.0.0",
+  "description": "Computer science coursework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "eartharoid",
+  "license": "MIT",
+  "dependencies": {
+    "leekslazylogger": "^1.1.9",
+    "random": "^2.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
